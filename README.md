@@ -1,6 +1,11 @@
 # Mnist-digit-predictor
-Predict the digit that you have written.
-![mnist](https://github.com/BHEESETTIANAND/Mnist-digit-predictor/assets/101445444/62b6b74e-5cd9-4d3f-ac7f-24666657f08e)
+## Predict the digit that you have written.
+### In this project by using the KERAS api which is built on TENSORFLOW i have built a Artificial neural network model that will predict the digit.
+### I have used Gradio to create the frontend for this project.
+### And i have used Hugging face Spaces to create a demo model for this project.
+
+
+## here i am attaching the link of the working model: https://huggingface.co/spaces/Anandbheesetti/MNIST_digit_predictor
 
 
 
